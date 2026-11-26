@@ -2,11 +2,11 @@
 
 <br><br>
 
-<img src="meme.png" width="320" alt="터질듯한 과제?"> <img src="meme2.png" width="320" alt="안터졌음 안없어짐">
+<details> <summary><b>👇 사진을 눌러 보세요</b><br><br><img src="meme.png" width="360" alt="터질듯한 과제?"></summary> <br> <img src="meme2.png" width="360" alt="안터졌음 안없어짐">
 
-터질 듯한 과제 👉 안 터졌음, 안 없어짐 😇
+안 터졌음, 안 없어짐 😇
 
-</div>
+</details> </div>
 📊 오늘의 상태
 <div align="center">
 항목	상태
@@ -35,4 +35,4 @@ python 파일이름.py
 
 💡 turtle 그림은 IDLE이나 VS Code에서 실행해야 창이 떠요.
 
-<!-- 하단 배너 --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:845ef7,100:ff6b6b&height=120&section=footer" width="100%
+<!-- 하단 배너 --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:845ef7,100:ff6b6b&height=120&section=footer" width="100%">
