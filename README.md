@@ -1,5 +1,3 @@
-<img width="600" height="600" alt="meme" src="https://github.com/user-attachments/assets/b1e220b5-dd10-4615-bd99-d56ee421bc21" />
-<img width="600" height="600" alt="meme2" src="https://github.com/user-attachments/assets/3c085fe1-2a33-4dd0-ad8d-a8d9b8b2b6e4" />
 <div align="center">
 🐍 Python 연습장
 
