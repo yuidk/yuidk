@@ -1,19 +1,10 @@
 <div align="center">
+🐍 Python 연습장
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=yuidk&fontSize=60&fontColor=ffffff)
+<img src="meme.png" width="320" alt="터질듯한 과제?"> <img src="meme2.png" width="320" alt="안터졌음 안없어짐">
 
-</div>
+터질 듯한 과제 👉 안 터졌음, 안 없어짐 😇
 
-## 🛠 Tech Stack
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-## 📊 GitHub Stats
-<div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=yuidk&show_icons=true&theme=tokyonight&hide_border=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuidk&layout=compact&theme=tokyonight&hide_border=true)
+이미지 표시 이미지 표시
 
 </div>
